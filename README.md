@@ -46,4 +46,4 @@ Kami telah melakukan validasi masalah di wilayah **[Jakarta dan Bogor]** dengan 
 ## 📺 4. Presentasi Produk (Pitch Deck)
 Simak penjelasan lengkap mengenai potensi bisnis kami melalui video berikut:
 
-[![Video Pitching](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/0.jpg)](LINK_VIDEO_YOUTUBE)
+[![Video Pitching](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/0.jpg)](https://www.youtube.com/watch?v=3GKW07hV14A)
