@@ -27,8 +27,8 @@ Kami telah melakukan validasi masalah di wilayah **[Jakarta dan Bogor]** dengan 
 
 ## 📊 2. Arsitektur Keuangan & Model Bisnis
 * **Modal Awal:** Rp [100.000.000]
-* **Break Even Point (BEP):** Bulan ke-[Sekian]
-* **Proyeksi Profit (Bulan ke-3):** Rp [Nominal]
+* **Break Even Point (BEP):** Bulan ke-X. Usaha masih merugi karena baru dimulai. Sehingga BEP belum tercapai dan belum bisa ditentukan tercapai di bulan ke berapa dari data yang ada.
+* **Proyeksi Profit (Bulan ke-3):** Rp -27.313.000,00
 
 📈 **[AKSES DOKUMEN: Perhitungan Keuangan Lengkap (Google Sheets)](https://docs.google.com/spreadsheets/d/1bP89ZzG5BZrjxC8VDwUyWBjXjwIRuBY1_Y84mS2-UTQ/edit?usp=sharing)**
 *(Lembar kerja ini memuat perhitungan HPP, BEP, Arus Kas, dan Neraca dengan formula aktif)*
